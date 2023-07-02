@@ -1,0 +1,3 @@
+ip privada máquina virtual:  inet 10.0.2.15
+ip publica: 181.128.82.165
+La IP publica es la misma en mi máquina real y virtual
